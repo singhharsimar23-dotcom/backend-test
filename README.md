@@ -1,9 +1,10 @@
-Stack To Do List Application
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/12b5e3c3-5c04-44d1-9ce4-fcd6752825bf" />Stack To Do List Application
 This project is a fully functional, full-stack To Do List application built using the MERN stack (MongoDB, Express, React, Node.js). It demonstrates proficiency in building a complete single-page application (SPA) with dedicated backend API services and a MongoDB database hosted on Atlas.
 
 🔗 Live Application Deployment
-I am not adding screenshots.The application is deployed as a monorepo on Vercel you can check it out.
 
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/e03ef380-5485-459a-ad55-11cf995a2854" />
+.The application is deployed as a monorepo on Vercel you can check it out.
 Live URL: https://backend-test-ten-orcin.vercel.app/
 
 🚀 Key Features
@@ -86,5 +87,7 @@ Run the Application: Run the dev script from the project root to start both the 
 
 Bash
 
-npm run dev
+npm run dev!
+
 The application will be accessible at http://localhost:3000.
+
