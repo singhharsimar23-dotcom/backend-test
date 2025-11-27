@@ -1,4 +1,4 @@
-<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/12b5e3c3-5c04-44d1-9ce4-fcd6752825bf" />Stack To Do List Application
+TO DO LIST APPLICATION :
 This project is a fully functional, full-stack To Do List application built using the MERN stack (MongoDB, Express, React, Node.js). It demonstrates proficiency in building a complete single-page application (SPA) with dedicated backend API services and a MongoDB database hosted on Atlas.
 
 🔗 Live Application Deployment
@@ -90,4 +90,5 @@ Bash
 npm run dev!
 
 The application will be accessible at http://localhost:3000.
+
 
