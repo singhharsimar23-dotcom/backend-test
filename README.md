@@ -4,8 +4,7 @@ This project is a fully functional, full-stack To Do List application built usin
 🔗 Live Application Deployment
 
 <img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/e03ef380-5485-459a-ad55-11cf995a2854" />
-.The application is deployed as a monorepo on Vercel you can check it out.
-Live URL: https://backend-test-ten-orcin.vercel.app/
+
 
 🚀 Key Features
 The application provides a complete set of CRUD (Create, Read, Update, Delete) operations, ensuring full data persistence via MongoDB Atlas.
@@ -90,5 +89,6 @@ Bash
 npm run dev!
 
 The application will be accessible at http://localhost:3000.
+
 
 
